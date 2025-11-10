@@ -1,13 +1,20 @@
 
-### **Student Details**
+# **Student Details**
 
 **Name:** Khanyisa Shikwambana
+---
 **Student Number:** ST10476385
+---
 **Course:** Higher Certificate in Mobile and Application Development
+---
 **Module:** Mobile App Scripting 
+---
 **Institution:** IIE Rosebank College
+---
 **Date of Submission:** 2025-11-10
+---
 **Lecturer:** WELCOME ZARANYIKA
+---
 
 ---
 
@@ -391,6 +398,7 @@ This project showcases technical competence, creativity, and attention to detail
  (See <attachments> above for file contents. You may not need to search or read the file again.)
 
 ---
+
 
 
 
