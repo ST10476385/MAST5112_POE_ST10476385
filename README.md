@@ -1,6 +1,6 @@
 
-#**Student Details**
-
+**Student Details**
+---
 **Name:** Khanyisa Shikwambana
 ---
 **Student Number:** ST10476385
@@ -41,36 +41,36 @@ This project fulfills all the rubric requirements provided, showcasing both tech
 - Language: TypeScript (strict)
 - Key features implemented: menu data entry (dish name, description, course, price), predefined courses, home screen menu list, total item count, average price per course (PoE), separate Manage screen to add/remove items, filter screen to filter by course, splash screen (5s)
 ---
-🖼️ App Preview
+ ## **App Preview**
 
-🏠 Home Screen
+**Home Screen**
 
 Displays the complete menu and shows total menu items and average price by course.
 Placeholder for screenshot:
 ![Home Screen](images/home-screen-placeholder.png)
 
-➕ Add Menu Item Screen
+**Add Menu Item Screen**
 
 Separate screen for adding and removing dishes dynamically.
 Placeholder for screenshot:
 ![Add Menu Screen](images/add-menu-screen-placeholder.png)
 
-🍴 Filter by Course Screen
+**Filter by Course Screen**
 
 Allows guests to filter dishes by course (e.g., starters, mains, desserts).
 Placeholder for screenshot:
 ![Filter Screen](images/filter-screen-placeholder.png)
 
-🎨 Splash Screen
+**Splash Screen**
 
 Minimal luxury theme: gold and black palette.
 Placeholder for Splah:
 ![App Splash] <img width="1910" height="922" alt="screenshot-1762776074185" src="https://github.com/user-attachments/assets/fe2ee939-a177-4858-89a3-1d703f24ba02" />
 
 
-🧾 Features Implemented
+**Features Implemented**
 
-✅ Part 2 Features
+**Part 2 Features**
 
 - Add Menu Items — Input fields for dish name, description, course, and price.
 - Predefined Courses — Dropdown list includes Starters, Mains, Desserts, Sides, Beverages, Appetizers.
@@ -80,7 +80,7 @@ Placeholder for Splah:
 - Luxury Styling — Gold and cream color scheme, fine dining layout.
 - Video Demonstration — Walkthrough uploaded to YouTube (unlisted).
 
-✅ Final PoE (Part 3) Features
+**Final PoE (Part 3) Features**
 
 - Separate Add Menu Screen — Chef can add or delete dishes on a dedicated page.
 - Average Price Calculation — Automatically shows average dish prices per course.
@@ -300,7 +300,7 @@ PoE / Final requirements (Parts 2 & 3)
 - 4) Guest filtering by course (separate page).
   - Status: Implemented. `FilterMenuScreen.tsx` lets guests choose a course and view matching items.
 
-Conclusion: I implemented the full Part 2 and final PoE requirements. The code is organized across multiple files and annotated so you can find each feature quickly.
+**Conclusion:** I implemented the full Part 2 and final PoE requirements. The code is organized across multiple files and annotated so you can find each feature quickly.
 
 ---
 
@@ -405,6 +405,7 @@ This project showcases technical competence, creativity, and attention to detail
  (See <attachments> above for file contents. You may not need to search or read the file again.)
 
 ---
+
 
 
 
