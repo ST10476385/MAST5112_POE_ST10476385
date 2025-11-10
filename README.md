@@ -1,5 +1,5 @@
 
-# **Student Details**
+#**Student Details**
 
 **Name:** Khanyisa Shikwambana
 ---
@@ -17,7 +17,8 @@
 ---
 **YouTube Link** https://youtu.be/D6zB3dQMptE
 ---
-**GitHub Link:**
+**GitHub Link:** https://github.com/ST10476385/MAST5112_POE_ST10476385.git
+---
 
 ----
 
@@ -60,11 +61,12 @@ Allows guests to filter dishes by course (e.g., starters, mains, desserts).
 Placeholder for screenshot:
 ![Filter Screen](images/filter-screen-placeholder.png)
 
-🎨 App Icon / Branding
+🎨 Splash Screen
 
 Minimal luxury theme: gold and black palette.
-Placeholder for logo:
-![App Logo](images/logo-placeholder.png)
+Placeholder for Splah:
+![App Splash] <img width="1910" height="922" alt="screenshot-1762776074185" src="https://github.com/user-attachments/assets/fe2ee939-a177-4858-89a3-1d703f24ba02" />
+
 
 🧾 Features Implemented
 
@@ -403,6 +405,7 @@ This project showcases technical competence, creativity, and attention to detail
  (See <attachments> above for file contents. You may not need to search or read the file again.)
 
 ---
+
 
 
 
