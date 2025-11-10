@@ -47,7 +47,21 @@ This project fulfills all the rubric requirements provided, showcasing both tech
 
 Displays the complete menu and shows total menu items and average price by course.
 Placeholder for screenshot:
-![Home Screen](images/home-screen-placeholder.png)
+![Home Screen] ![Screenshot_10-11-2025_162955_localhost](https://github.com/user-attachments/assets/81f57282-e3c2-4e27-b302-30fb6d1d1f21)
+---
+![Screenshot_10-11-2025_163010_localhost](https://github.com/user-attachments/assets/133172f6-6b44-46c1-acdd-4eabec452708)
+---
+![Screenshot_10-11-2025_163022_localhost](https://github.com/user-attachments/assets/20aab437-545f-4c75-8410-22b92076bec8)
+---
+![Screenshot_10-11-2025_163030_localhost](https://github.com/user-attachments/assets/7b2800bc-1df6-4b8c-a073-98c37333c585)
+---
+![Screenshot_10-11-2025_163050_localhost](https://github.com/user-attachments/assets/af2bfbd8-b8fa-42d8-bd34-ed8a504692a3)
+---
+![Screenshot_10-11-2025_163059_localhost](https://github.com/user-attachments/assets/e298b7ec-c275-44a8-a8e1-5896d16970bc)
+---
+![Screenshot_10-11-2025_163313_localhost](https://github.com/user-attachments/assets/027bf6f8-5858-4b28-b575-dd2946853657)
+---
+
 
 **Add Menu Item Screen**
 
@@ -405,6 +419,7 @@ This project showcases technical competence, creativity, and attention to detail
  (See <attachments> above for file contents. You may not need to search or read the file again.)
 
 ---
+
 
 
 
