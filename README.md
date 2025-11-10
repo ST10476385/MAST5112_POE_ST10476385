@@ -15,6 +15,11 @@
 ---
 **Lecturer:** WELCOME ZARANYIKA
 ---
+**YouTube Link** https://youtu.be/D6zB3dQMptE
+---
+**GitHub Link:**
+
+----
 
 ---
 
@@ -318,7 +323,7 @@ Quick checks if something fails:
 ## Evidence checklist for grading (what I'll show in the video)
 
 I recommend you record the following steps in your video submission and narrate each one:
-
+https://youtu.be/D6zB3dQMptE
 - Working app that compiles and runs (show `App.tsx`, Node & Expo versions).
 - Input fields for Dish Name, Description, Course, and Price (`ManageMenuScreen.tsx`).
 - Predefined course list (`types/menu.ts`).
@@ -398,6 +403,7 @@ This project showcases technical competence, creativity, and attention to detail
  (See <attachments> above for file contents. You may not need to search or read the file again.)
 
 ---
+
 
 
 
